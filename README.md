@@ -1,10 +1,6 @@
 # The dynamics of 'don't know'
 
-Code behind my MEng thesis (University of Bristol, 2018, supervised by Dr
-Jonathan Lawry and Dr Martin Homer). It extends the adaptive voter model — a
-standard model of opinion dynamics on a co-evolving network — to include an
-explicit uncertain belief state, random state changes representing noise, and
-non-updating agents ("zealots") representing individual failure.
+Code behind my [MEng thesis](thesis.pdf) (University of Bristol, 2018, supervised by Dr Jonathan Lawry and Dr Martin Homer). It extends the adaptive voter model — a standard model of opinion dynamics on a co-evolving network — to include an explicit uncertain belief state, random state changes representing noise, and non-updating agents ("zealots") representing individual failure.
 
 ## Result
 
